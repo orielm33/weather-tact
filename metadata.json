@@ -1,0 +1,7 @@
+{
+  "name": "Weather-Tactical",
+  "description": "A high-precision, tactical weather monitoring dashboard with night-vision aesthetics, real-time metrics, and AI-powered operational briefings.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
